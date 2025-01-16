@@ -35,10 +35,10 @@ Hi there! 👋  <br>I’m a B.Sc student in Electrical and Electronic Engineerin
 If you're intrigued by my journey or see synergy in our paths, I'm just a message away. Together, we can energize aspirations into reality.
 
 - 📧 Email: shafinibnulmohasin@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/techpioneer
+- 🔗 LinkedIn: https://www.linkedin.com/in/shafin-ibnul-mohasin-921212311/
 - 💼 Portfolio: innovatewithme.com
-- 👤 **Facebook**: facebook.com/PowerPioneer
-- 🎮 **Discord**: TechInnovator#1234
+- 👤 **Facebook**: https://www.facebook.com/shafin.ibnul.mohasin/
+- 🎮 **Discord**: 851376179676184597
 
 Appreciate your curiosity in my GitHub cosmos. Stay charged!
 
