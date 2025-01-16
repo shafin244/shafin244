@@ -38,7 +38,7 @@ If you're intrigued by my journey or see synergy in our paths, I'm just a messag
 - 🔗 LinkedIn: https://www.linkedin.com/in/shafin-ibnul-mohasin-921212311/
 - 💼 Portfolio: innovatewithme.com
 - 👤 **Facebook**: https://www.facebook.com/shafin.ibnul.mohasin/
-- 🎮 **Discord**: sken01
+- 🎮 **Discord**: https://discord.com/channels/@me/893039655065387028
 
 Appreciate your curiosity in my GitHub cosmos. Stay charged!
 
